@@ -2,6 +2,10 @@
 
 _A space for BIDS community members to share their reflections each week._
 
+## People
+
+* BIDS Executive Director: [kirstie-whitaker](/kirstie-whitaker)
+
 ## License
 
 Contributions by each person are available in their named directories.
