@@ -5,6 +5,7 @@ _A space for BIDS community members to share their reflections each week._
 ## People
 
 * BIDS Executive Director: [kirstie-whitaker](/kirstie-whitaker)
+* BIDS Events & Communications Manager: [lilli-hart](/lilli-hart)
 
 ## License
 
