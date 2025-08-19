@@ -44,9 +44,44 @@
 
 #### What did I do?
 
-* 
+* 🤝 BIDS Leadership & Operations
+  * 
+  * 
+* ⚖️ CRELS + CSSTP
+  * 
+  * 
+* 🪐 Jupyter
+  * 
+  * 
+* ☀️ OSPO
+  * 
+  * 
+* 🌳 Scientific Python
+  * 
+  * 
+* 🌱 The Turing Way
+  * 
+  * 
 
 #### What did I not do?
 
-* 
+* 🤝 BIDS Leadership & Operations
+  * 
+  * 
+* ⚖️ CRELS + CSSTP
+  * 
+  * 
+* 🪐 Jupyter
+  * 
+  * 
+* ☀️ OSPO
+  * 
+  * 
+* 🌳 Scientific Python
+  * 
+  * 
+* 🌱 The Turing Way
+  * 
+  * 
+
 ```
