@@ -1,6 +1,7 @@
 # Kirstie Whitaker
 
 * 2026
+  * February: [2026-02.md](./2026-02.md)
   * January: [2026-01.md](./2026-01.md)
 * 2025
   * August 2025: [2025-08.md](./2025-08.md)
@@ -75,34 +76,4 @@
   * 
   * 
 
-#### What did I not do?
-
-* 🤖 AI Futures Lab
-  * 
-  * 
-* 🤝 BIDS Leadership & Operations
-  * 
-  * 
-* ⚖️ CRELS + CSSTP
-  * 
-  * 
-* 🧑‍🤝‍🧑 Cultural Analytics
-  * 
-  * 
-* 🪐 Jupyter
-  * 
-  * 
-* 🩻 OPH
-  *
-  *
-* ☀️ OSPO
-  * 
-  * 
-* 🌳 Scientific Python
-  * 
-  * 
-* 🌱 The Turing Way
-  * 
-  * 
-  
 ```
