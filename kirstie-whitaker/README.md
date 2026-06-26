@@ -7,7 +7,15 @@
 
 ---
 
-# Template
+## Shortcuts
+
+To search for _sent_ emails between two dates in gmail, for example:
+
+```
+in:sent after:2026/6/14 before:2026/6/22 
+```
+
+## Template
 
 ```
 ## w/c DAY MONTH YEAR
@@ -44,9 +52,40 @@
 
 #### What did I do?
 
-* 
-
-#### What did I not do?
-
-* 
+* 🤖 AI Futures Lab
+  * 
+  * 
+* 🤝 BIDS Leadership & Operations
+  * 
+  * 
+* ⚖️ CRELS + CSSTP
+  * 
+  * 
+* 🧑‍🤝‍🧑 Cultural Analytics
+  * 
+  * 
+* 🌎 GeoJupyter
+  * 
+  * 
+* 🪐 Jupyter 
+  * 
+  * 
+* 🌌 Jupyter in Astronomy
+  *
+  *
+* 🩻 OPH
+  *
+  *
+* ☀️ OSPO
+  * 
+  * 
+* 📈 Professional Development
+  * 
+  * 
+* 🌳 Scientific Python
+  * 
+  * 
+* 🌱 The Turing Way
+  * 
+  * 
 ```
