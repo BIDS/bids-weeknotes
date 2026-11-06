@@ -55,6 +55,9 @@
 * 🤖 AI Futures Lab
   * 
   * 
+* 🧬 BioJupyter
+  * 
+  * 
 * 🤝 BIDS Leadership & Operations
   * 
   * 
@@ -65,6 +68,9 @@
   * 
   * 
 * 🌎 GeoJupyter
+  * 
+  * 
+* 🤖 Lightcone
   * 
   * 
 * 🪐 Jupyter 
