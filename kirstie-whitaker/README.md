@@ -1,5 +1,13 @@
 # Kirstie Whitaker
 
+## Table of contents
+
+### 2026
+
+* November 2026: [2025-11.md](./2026-11.md)
+
+### 2025
+
 * August 2025: [2025-08.md](./2025-08.md)
 * June 2025: [2025-06.md](./2025-06.md)
 * February 2025: [2025-02.md](./2025-02.md)
@@ -44,9 +52,40 @@
 
 #### What did I do?
 
-* 
-
-#### What did I not do?
-
-* 
+* 🤖 AI Futures Lab
+  * 
+  * 
+* 🤝 BIDS Leadership & Operations
+  * 
+  * 
+* ⚖️ CRELS + CSSTP
+  * 
+  * 
+* 🧑‍🤝‍🧑 Cultural Analytics
+  * 
+  * 
+* 🌎 GeoJupyter
+  * 
+  * 
+* 🪐 Jupyter 
+  * 
+  * 
+* 🌌 Jupyter in Astronomy
+  *
+  *
+* 🩻 OPH
+  *
+  *
+* ☀️ OSPO
+  * 
+  * 
+* 📈 Professional Development
+  * 
+  * 
+* 🌳 Scientific Python
+  * 
+  * 
+* 🌱 The Turing Way
+  * 
+  * 
 ```
